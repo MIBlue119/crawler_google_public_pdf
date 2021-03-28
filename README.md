@@ -27,13 +27,14 @@ crawler_google_public_pdf/
 ```
 
 ### Setup
+Python version: 3.7
 ```
 $ conda install --yes --file requirements.txt
 ```
 
 ### Run the script
 ```
-$ python crawler_google_publicpdf.py
+$ python crawler_google_public_pdf.py
 ```
 
 ### Process with colab
